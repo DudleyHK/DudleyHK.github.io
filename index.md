@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # DHK Digital
 ### Portfolio & Blog Site
 
