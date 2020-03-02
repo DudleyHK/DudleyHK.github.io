@@ -1,6 +1,8 @@
 # DHK Digital
 ### Portfolio & Blog Site
 
+<a id="#home"></a>
+
 `A space to put my latest projects, prototypes and research. The format and layout fo the site will change and grow as more content is added.` 
 
 
