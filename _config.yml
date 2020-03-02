@@ -1,4 +1,4 @@
 title: DHK Digital
 description: The portfolio & blog site of Dudley Harvey-Kelly.
+source: ./pages/index.md
 theme: jekyll-theme-slate
-source: ./_pages/index.md
