@@ -1,5 +1,7 @@
+#Jekyll Configuration
 title: DHK Digital
 description: A portfolio and blog site displaying the work by Dudley Harvey-Kelly.
-show_downloads: true
-google_analytics:
+url: "http://dudleyhk.github.io"
+markdown: kramdown
+highlighter: rouge
 theme: jekyll-theme-slate
