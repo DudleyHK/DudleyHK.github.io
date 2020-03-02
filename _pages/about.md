@@ -1,3 +1,1 @@
-## About 
-
-About Section
+# About {#about}
